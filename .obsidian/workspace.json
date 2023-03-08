@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "543a9baa04d655ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5edeb25f248d37f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17e8a2ce087f100b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/02 - Lecture 02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84b0c607869a4af7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/06 - Lecture 06.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29a8eb2b7defefb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5d31cc0c53ddddf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6b972695d477617",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "10d0b2b1cb48e59c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba6bc2f96fdbae38",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cedfa55c5eba09f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a76e700f62ff107",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31b6c91404befeea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/06 - Lecture 06.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "10c15bbca2fd96c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/06 - Lecture 06.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fcf3f34d79e3af8c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4f9e4d012c5ce855",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/06 - Lecture 06.md"
+              }
+            }
+          },
+          {
+            "id": "df8843dfa00c4226",
+            "type": "leaf",
+            "state": {
+              "type": "online.tokuhirom.obsidian-stopwatch-plugin",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "84b0c607869a4af7",
+  "lastOpenFiles": [
+    "Notes/02 - Lecture 02.md",
+    "Notes/06 - Lecture 06.md",
+    "Notes/06 - Lecture 05",
+    "Notes/03 - Lecture 03.md",
+    "Notes/01 - Lecture 01.md",
+    "Notes/02 - Redux Architecture.md",
+    "Notes/03 - Writing our own Redux Store.md",
+    "Notes/01 - Setup.md",
+    "Notes/04 - NgRx Store and Components.md",
+    "Notes/04 - Architecture.md",
+    "MD - Cheatsheet.md",
+    "Progress.md",
+    "Notes/assets/02-one-way-data-flow.png",
+    "01 - Installation.md"
+  ]
+}
